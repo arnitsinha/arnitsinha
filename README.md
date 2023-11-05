@@ -6,8 +6,6 @@ Welcome to my public profile! I'm passionate about Software Development and Medi
 
 - 💼 Sophomore / Clarkson University
 - 🌍 Based in Potsdam / NY
-- 🔗 [Website](https://arnitsinha.com)
-- 📧 [arsinha@clarkson.edu](mailto:arsinha@clarkson.edu)
 
 ## What I Do
 
