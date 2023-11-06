@@ -9,7 +9,7 @@ Welcome to my public profile! I'm passionate about Software Development and Medi
 
 ## What I Do
 
-I specialize in C++ and HTML and have experience in Media Production and Broadcast Engineering. My work often revolves around all kinds of stuff that I find interesting, and I'm dedicated to finding my place in this ever evolving world.
+I specialize in C++, Python and HTML and have experience in Media Production and Broadcast Engineering. My work often revolves around all kinds of stuff that I find interesting, and I'm dedicated to finding my place in this ever evolving world.
 
 ## Let's Connect
 
