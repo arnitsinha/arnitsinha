@@ -27,3 +27,5 @@ Thank you for visiting! Let's connect, collaborate, and learn together.
 Bonus : Here's a song I am/was listening to!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=41bfqjieutybkou1mf86zwmmx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8000ff&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=41bfqjieutybkou1mf86zwmmx&redirect=true)
+
+[![wakatime](https://wakatime.com/badge/user/ade731c4-7a8a-4109-9cc3-ab033057dae3.svg)](https://wakatime.com/@ade731c4-7a8a-4109-9cc3-ab033057dae3)
