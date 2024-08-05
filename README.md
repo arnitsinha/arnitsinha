@@ -4,7 +4,8 @@ Welcome to my public profile! I'm passionate about Software Development and Medi
 
 ## About Me
 
-- 💼 Sophomore / Clarkson University
+- Currently studying abroad at the University of Technology, Sydney
+- 💼 Junior / Clarkson University
 - 🌍 Based in Potsdam / NY
 
 ## What I Do
