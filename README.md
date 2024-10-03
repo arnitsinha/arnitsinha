@@ -15,8 +15,7 @@ You’ve wandered into the domain. Coincidence? Maybe.
 
 - 📨 [hey@arnitsinha.com](mailto:hey@arnitsinha.com)
 - 🕸️ [arnitsinha.com](https://arnitsinha.com)
-- 🧭 [LinkedIn](https://www.linkedin.com/in/arnitsinha/)
-- 🔍 [GitHub](https://github.com/arnitsinha)
-- 📷 [Fragments](https://photo.arnitsinha.com)
+- 🧭 [linkedin.com](https://www.linkedin.com/in/arnitsinha/)
+- 📷 [photo.arnitsinha.com](https://photo.arnitsinha.com)
 
 If you’re still here, we’re bound to cross again.
