@@ -1,26 +1,22 @@
-# Hi there, I'm Arnit Sinha 👋
+## The Signal Has Found You 🌑
 
-Welcome to my public profile! I'm passionate about Software Development and Media Production, and this space is where I showcase my work, share my experiences, and connect with like-minded individuals.
+You’ve wandered into the domain. Coincidence? Maybe.
 
-## About Me
+### Who?
 
-- Currently studying abroad at the University of Technology, Sydney
-- 💼 Junior / Clarkson University
-- 🌍 Based in Potsdam / NY
+- Somewhere between Sydney and Potsdam, but always moving.
+- Clarkson University—Junior, if that matters. Fluent in code and sometimes the language of lights and lenses.
 
-## What I Do
+### What?
 
-I specialize in C++, Python and HTML and have experience in Media Production and Broadcast Engineering. My work often revolves around all kinds of stuff that I find interesting, and I'm dedicated to finding my place in this ever evolving world.
+- I chase what calls to me, somewhere between code and chaos.
 
-## Let's Connect
+### Trace the Signals
 
-- 💬 I'm open to collaboration and networking opportunities.
-- 📫 Feel free to reach out through [arsinha@clarkson.edu](mailto:arsinha@clarkson.edu).
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arnitsinha/).
-- 🌐 Visit my [website](https://arnitsinha.com) for more insights and updates.
+- 📨 [hey@arnitsinha.com](mailto:hey@arnitsinha.com)
+- 🕸️ [arnitsinha.com](https://arnitsinha.com)
+- 🧭 [LinkedIn](https://www.linkedin.com/in/arnitsinha/)
+- 🔍 [GitHub](https://github.com/arnitsinha)
+- 📷 [Fragments](https://photo.arnitsinha.com)
 
-## Check Out My Work
-
-Browse through my [repositories](https://github.com/arnitsinha) to explore my projects and [photo portfolio](https://photo.arnitsinha.com).
-
-Thank you for visiting! Let's connect, collaborate, and learn together.
+If you’re still here, we’re bound to cross again.
