@@ -4,7 +4,7 @@ You’ve wandered into the domain. Coincidence? Maybe.
 
 ### Who?
 
-- Somewhere between Sydney and Potsdam, but always moving.
+- Somewhere between Hong Kong and Potsdam, but always moving.
 - Clarkson University—Junior, if that matters. Fluent in code and sometimes the language of lights and lenses.
 
 ### What?
